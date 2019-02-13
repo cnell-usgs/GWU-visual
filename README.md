@@ -2,3 +2,4 @@
 GWU 
 
 
+NMDS plotting: http://rpubs.com/collnellphd/GWU_nmds . 
